@@ -7,3 +7,8 @@ Medical image segmentation involves identifying regions of interest in medical i
 <p align="center">
   <img width="460" height="500" src="https://user-images.githubusercontent.com/48295759/180458910-10913506-fb1f-48de-a319-af9ce12a28a0.png">
 </p>
+
+
+The requirements for this code to run can be found in the requirements.txt file. All the code is implemented in Tensorflow and Keras.
+Each folder contains code for the model with the same title.
+The "xnet" folder contains code for UNet, VNet, ResUNet-a, TransUNet, SwinUNet, R2UNet and Attention UNet.

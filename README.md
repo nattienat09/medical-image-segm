@@ -9,7 +9,7 @@ Medical image segmentation involves identifying regions of interest in medical i
 </p>
 
 
-The requirements for this code to run can be found in the requirements.txt file. All the code is implemented in Tensorflow and Keras.
+All the code is implemented in Tensorflow 2.4 and Keras.
 
 Each folder contains code for the model with the same title.
 

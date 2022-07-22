@@ -14,3 +14,5 @@ The requirements for this code to run can be found in the requirements.txt file.
 Each folder contains code for the model with the same title.
 
 The "xnet" folder contains code for UNet, VNet, ResUNet-a, TransUNet, SwinUNet, R2UNet and Attention UNet.
+
+The "data preproc" folder contains code for splitting the datasets in train, validation and test sets, for merging the masks of the 2018 Data Science Bowl dataset, for merging the masks of the SegPC dataset and for the data augmentation.
